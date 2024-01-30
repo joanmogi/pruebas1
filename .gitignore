@@ -1,0 +1,35 @@
+# Archivos de clases compiladas
+*.class
+
+# Archivos de paquetes
+*.jar
+*.war
+*.ear
+
+# Archivos del IDE Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos del IDE IntelliJ IDEA
+.idea/
+
+# Archivos del IDE NetBeans
+nbproject/
+
+# Bytecode Java compilado
+target/
+
+# Archivos de Gradle
+build/
+
+# Archivos de Maven
+target/
+*.iml
+
+# Archivos de registro
+*.log
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
